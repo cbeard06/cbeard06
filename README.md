@@ -13,7 +13,7 @@ To secure a SOC Analyst internship where I can apply foundational cybersecurity 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Creating Virtual Machines | <a href="https://github.com/cbeard06/Home-Lab">Home Lab</a>|
-| Programming in Python | <a href="https://github.com/cbeard06/Python-Programs)">Python Programs</a>|
+| Programming in Python | <a href="https://github.com/cbeard06/Python-Programs">Python Programs</a>|
 
 
 ## Projects
